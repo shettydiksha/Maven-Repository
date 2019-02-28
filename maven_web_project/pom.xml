@@ -4,11 +4,5 @@
   <artifactId>maven_web_project</artifactId>
   <version>1.0</version>
   <packaging>war</packaging>
-  <dependencies>
-  	<dependency>
-  		<groupId>com.oracle</groupId>
-  		<artifactId>ojdbc8</artifactId>
-  		<version>11.2.0</version>
-  	</dependency>
-  </dependencies>
+  
 </project>
