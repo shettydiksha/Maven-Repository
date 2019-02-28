@@ -4,5 +4,4 @@
   <artifactId>maven_web_project</artifactId>
   <version>1.0</version>
   <packaging>war</packaging>
-  
-</project>
+ </project>
